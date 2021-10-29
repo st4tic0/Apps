@@ -53,4 +53,3 @@ wellpathpy==0.4.0
 welly==0.4.10
 widgetsnbextension==3.5.1
 wincertstore==0.2
-Python==3.9.5
