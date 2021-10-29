@@ -127,4 +127,4 @@ win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
 wincertstore==0.2
 xlrd==2.0.1
 zipp @ file:///tmp/build/80754af9/zipp_1625570634446/work
-Python 3.9.5
+Python==3.9.5
