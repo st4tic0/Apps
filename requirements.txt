@@ -29,7 +29,6 @@ munch==2.5.0
 networkx==2.3
 openpyxl==3.0.7
 panda==0.3.1
-parso==0.8.2
 pywin32==301
 plotly==5.2.1
 plotly-express==0.4.1
