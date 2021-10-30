@@ -11,7 +11,6 @@ import home
 import raw_data
 import plotting
 import header
-import ooip
 import plotly.figure_factory as ff
 
 # import debugpy
@@ -69,6 +68,4 @@ elif options == 'Datos de las curvas':
     raw_data.raw_data(las_file, well_data)
 elif options == 'Visualizacion':
     plotting.plot(las_file, well_data)
-elif options == 'OIIP':
-    oiip.oiip(las_file, well_data)
 
