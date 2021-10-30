@@ -5,7 +5,6 @@ st.set_page_config(layout="wide", page_title='LAS Explorer v.0.1')
 import lasio
 #import missingno as mno
 import pandas as pd
-import petropy as ptr
 # Local Imports
 import home
 import raw_data
